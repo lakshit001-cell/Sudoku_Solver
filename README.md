@@ -7,7 +7,7 @@ A robust Sudoku solver that converts grid constraints into **Conjunctive Normal 
 
 ### 1. Compilation
 To compile the project and generate the executables (`Sudoku2cnf` and `sol2grid`):
-```text
+
 make all
 exit
 
